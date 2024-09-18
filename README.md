@@ -12,8 +12,5 @@ Automated Google Account Creator for YouTube, Gmail, and More
 - **Fake Information**: Automatically generates realistic fake information for account creation.
 - **Easy Setup**: Installation and usage are simple and straightforward.
 
-## Demo
-https://t.me/ANGEL_DEVLOPPER/48
-
 ## Contact
 [Telegram](https://t.me/ANGLE_DEV).
